@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreExaMenu1</string>
+    <string name="cel">°C</string>
+    <string name="far">°F</string>
+</resources>
